@@ -1,1 +1,1 @@
-# life-in-paradise-hub
+# Life In Paradise Hub Script Source
